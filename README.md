@@ -5,15 +5,17 @@ Welcome to my personal protfolio. I'm a currently working on finishing my Bachel
 ## About me
 Im just a guy who enjoys trying to make games
 
-# Skills
+## Languages
 - C
 - C#
 - F#
 - Python
+  
+## Skills
 - Unity
 
 # Projects
 - Cave game
 - VR Sudoku Assistant
-  - asd
+  - Being Developed in the 
 - asd
