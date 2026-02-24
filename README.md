@@ -16,8 +16,9 @@ Im just a guy who enjoys trying to make games
 
 # Projects
 - [Cave game](https://github.com/bgv600/FazzPlatformer)
+  - First game i've worked on
   - Personal game i work on in my freetime
 - [VR Sudoku Assistant](https://github.com/bgv600/BachelorProject)
+  - Made for my Bachelors project
   - Being Developed in the Unity Game Engine
-  - 
-- 
+
