@@ -14,4 +14,6 @@ Im just a guy who enjoys trying to make games
 
 # Projects
 - Cave game
-  -asd
+- VR Sudoku Assistant
+  - asd
+- asd
